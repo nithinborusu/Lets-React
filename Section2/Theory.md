@@ -1,5 +1,5 @@
-## Namaste React Course by Akshay Saini
-# _Chapter 02 - Igniting our App_
+
+# _Section 02 - Igniting our App_
 
 
 ## Q: What is `NPM`?
