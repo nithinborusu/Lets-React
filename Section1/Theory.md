@@ -59,3 +59,4 @@ A: `Async` - The async attribute is a `boolean attribute`. The script is downloa
 ## Q: Difference between a `Library and Framework`?
 
 A: A `library` is a piece of code that we can incorporate in our existing project via a CDN or as a package. A library does not affect our project structure whereas a `framework` is a structured set of libraries and packages implementing a particular methodology that we have to follow to create a project.
+

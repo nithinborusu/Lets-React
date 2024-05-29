@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "GitHub Dark Default",
+    "workbench.preferredDarkColorTheme": "GitHub Dark Default",
+    "workbench.preferredHighContrastColorTheme": "GitHub Dark Default",
+    "workbench.preferredHighContrastLightColorTheme": "GitHub Light Default",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.sideBar.location": "left",
+    "material-icon-theme.activeIconPack": "angular"
+}
